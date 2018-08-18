@@ -1,0 +1,43 @@
+body {
+	background-image: url("MapOfWorld.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+.statement1 {
+	margin-top: 18%;
+	margin-right: 35%;
+	color: #FF602D;
+	font-family: Dancing Script;
+	font-size: 2rem;
+	text-align: center;
+}
+
+#someID  {
+	font-size: 4rem; 
+}
+
+.btn {
+	margin-top: 4%;
+	margin-left: 40%;
+	margin-bottom: 100px;
+	background-color: #FF602D;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 6px;
+    font-style: bold;
+}
+	
+
+.statement2 {
+	margin-top: -8%;
+	margin-left: 380px;
+	color: #FF602D;
+	font-family: Dancing Script;
+	font-size: 2rem;
+	text-align: center;
+}
